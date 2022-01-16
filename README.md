@@ -5,3 +5,6 @@ Based from https://github.com/theluqqass/ASUS-A407UF-OPENCORE-BIGSUR with Openco
 Not working: Wifi card (can replace with usb dongle)
 <br>
 Others work normally
+<br><br><br>
+January 16th, 2022<br>
+Updated to Opencore 0.7.7 with some kext updates
